@@ -2,7 +2,7 @@
 
 ## Introduction
 This repository can be used to detect the registration number of vehicles in robust scenarios. 
-**It uses YOLOv4 for vehicle detection, FAST-YOLOv4 for license plate detection and a CNN for character recognition.**
+**It uses YOLOv3 for vehicle detection, FAST-YOLOv3 for license plate detection and a CNN for character recognition.**
 
 ## Requirements
 This project uses AlexyAB's darknet framework. The Darknet framework is self-contained in the "darknet" folder
